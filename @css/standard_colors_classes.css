@@ -27,3 +27,28 @@
 (_______/\_______/|/    )_)   )_(   (_______/|/   \__/\_______)(_)(_)(_)                 \_)
 
 ************************************************************************************************************************/
+
+/* ******************************* *
+ * CSS Classes for Standard Colors *
+ * ******************************* */
+
+/* Black  standard color -- Foreground */
+.black-fg {
+  color: #000;			/* #000000 -- Black */
+}
+
+/* Black  standard color -- Background */
+.black-bg {
+  background-color: #000;	/* #000000 -- Black */
+}
+
+/* Navy  standard color -- Foreground */
+.navy-fg {
+  color: #000080;		/* #000080 -- Navy */
+}
+
+/* Navy  standard color -- Background */
+.navy-bg {
+  background-color: #000080;	/* #000080 -- Navy */
+}
+
