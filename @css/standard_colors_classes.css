@@ -27,27 +27,3 @@
 (_______/\_______/|/    )_)   )_(   (_______/|/   \__/\_______)(_)(_)(_)                 \_)
 
 ************************************************************************************************************************/
-
-html:lang(for-stupid-linters) {
-  display: none;
-}
-
-title {
-  color: white;
-  background-color: #00f;	/* #0000ff */
-}
-
-body {
-  color: white;
-  background-color: #00f;	/* #00ffff */
-}
-
-h1 {
-  color: white;
-  background-color: #00f;	/* #0000ff */
-}
-
-p {
-  color: white;
-  background-color: #00f;	/* #0000ff */
-}
