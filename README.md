@@ -1,10 +1,10 @@
 ![Image](https://img.shields.io/badge/Microverse-blueviolet)
 
-# <project-name> project
+# CSS standard color classes project
 
-> This project is .
+> This project is basically a CSS files with classes for each os the standard colors.
 
-> [Here is a screenshot](https://projects.microverse.datanet-pt.net/.../app_screenshot.png)
+> [Here is a screenshot](https://projects.microverse.datanet-pt.net/CSS-standard-color-classes/app_screenshot.png)
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://projects.microverse.datanet-pt.net/.../)
+[Live Demo Link](https://projects.microverse.datanet-pt.net/CSS-standard-color-classes/)
 
 <br/>
 
@@ -45,7 +45,7 @@
 
 ### Install
 
-> ***git clone https://github.com/Microverse-ajgomes/<project-name>.git***
+> ***git clone https://github.com/Microverse-ajgomes/CSS-standard-color-classes.git***
 
 ### Usage
 
@@ -95,4 +95,7 @@ Feel free to check the issues page<!--[issues page](../../issues/)-->.
 
 ## &#x1F4DD; License
 
-This project is [MIT](https://projects.microverse.datanet-pt.net/.../MIT.html) licensed.
+This project is [MIT](https://projects.microverse.datanet-pt.net/CSS-standard-color-classes/MIT.html) licensed.
+
+
+[**<-- RETURN**](https://projects.microverse.datanet-pt.net/CSS-standard-color-classes/)
