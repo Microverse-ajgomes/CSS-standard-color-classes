@@ -119,15 +119,15 @@
 /* *********************** *
  * Green -- standard color *
  * *********************** */
- 
+
 /* Foreground color */
 .green-fg {
-  color: #00ff00;               /* #00FF00 -- Green */
+  color: #0f0;                  /* #00FF00 -- Green */
 }
 
 /* Background color */
 .green-bg {
-  background-color: #00ff00;    /* #00FF00 -- Green */
+  background-color: #0f0;       /* #00FF00 -- Green */
 }
 
 /* ********************** *
