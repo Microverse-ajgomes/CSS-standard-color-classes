@@ -157,3 +157,73 @@
 .aqua-bg {
   background-color: #0ff;       /* #00FFFF -- Aqua */
 }
+
+/* ********************* *
+ * Red -- standard color *
+ * ********************* */
+
+/* Foreground color */
+.red-fg {
+  color: #f00;                  /* #FF0000 -- Red */
+}
+
+/* Background color */
+.red-bg {
+  background-color: #f00;       /* #FF0000 -- Red */
+}
+
+/* ************************* *
+ * Magenta -- standard color *
+ * ************************* */
+
+/* Foreground color */
+.magenta-fg {
+  color: #f0f;                  /* #FF00FF -- Magenta */
+}
+
+/* Background color */
+.magenta-bg {
+  background-color: #f0f;       /* #FF00FF -- Magenta */
+}
+
+/* ************************* *
+ * Fuchsia -- standard color *
+ * ************************* */
+
+/* Foreground color */
+.fuchsia-fg {
+  color: #f0f;                  /* #FF00FF -- Fuchsia */
+}
+
+/* Background color */
+.fuchsia-bg {
+  background-color: #f0f;       /* #FF00FF -- Fuchsia */
+}
+
+/* ************************ *
+ * Yellow -- standard color *
+ * ************************ */
+
+/* Foreground color */
+.yellow-fg {
+  color: #ff0;                  /* #FFFF00 -- Yellow */
+}
+
+/* Background color */
+.yellow-bg {
+  background-color: #ff0;       /* #FFFF00 -- Yellow */
+}
+
+/* *********************** *
+ * White -- standard color *
+ * *********************** */
+
+/* Foreground color */
+.white-fg {
+  color: #fff;                  /* #FFFFFF -- White */
+}
+
+/* Background color */
+.white-bg {
+  background-color: #fff;       /* #FFFFFF -- White */
+}
