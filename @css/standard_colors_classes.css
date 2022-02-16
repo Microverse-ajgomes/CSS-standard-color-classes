@@ -107,5 +107,44 @@
 
 /* Background color */
 .dark-green-bg {
-  background-color: #006400;    /* #00g400 -- DarkGreen */
+  background-color: #006400;    /* #006400 -- DarkGreen */
+}
+
+/* *********************** *
+ * Green -- standard color *
+ * *********************** */
+/* Foreground color*/
+.green-fg {
+  color: #00FF00;               /* #00FF00 -- Green */
+}
+
+/* Background color */
+.green-bg {
+  background-color: #00FF00;    /* #00FF00 -- Green */
+}
+
+/* ********************** *
+ * Cyan -- standard color *
+ * ********************** */
+/* Foreground color*/
+.cyan-fg {
+  color: #00FFFF;               /* #00FFFF -- Cyan */
+}
+
+/* Background color */
+.cyan-bg {
+  background-color: #00FFFF;    /* #00FFFF -- Cyan */
+}
+
+/* ********************** *
+ * Aqua -- standard color *
+ * ********************** */
+/* Foreground color*/
+.aqua-fg {
+  color: #00FFFF;               /* #00FFFF -- Aqua */
+}
+
+/* Background color */
+.aqua-bg {
+  background-color: #00FFFF;    /* #00FFFF -- Aqua */
 }
