@@ -32,22 +32,67 @@
  * CSS Classes for Standard Colors *
  * ******************************* */
 
-/* Black  standard color -- Foreground */
+/* *********************** *
+ * Black -- standard color *
+ * *********************** */
+/* Foreground color*/
 .black-fg {
   color: #000;			/* #000000 -- Black */
 }
 
-/* Black  standard color -- Background */
+/* Background color*/
 .black-bg {
   background-color: #000;	/* #000000 -- Black */
 }
 
-/* Navy  standard color -- Foreground */
+/* ********************** *
+ * Navy -- standard color *
+ * ********************** */
+/* Foreground color */
 .navy-fg {
-  color: #000080;		/* #000080 -- Navy */
+  color: #000080;				/* #000080 -- Navy */
 }
 
-/* Navy  standard color -- Background */
+/* Background color */
 .navy-bg {
   background-color: #000080;	/* #000080 -- Navy */
+}
+
+/* ************************** *
+ * DarkBlue -- standard color *
+ * ************************** */
+/* Foreground color */
+.dark-blue-fg {
+  color: #00008B;				/* #00008B -- DarkBlue */
+}
+
+/* Background color */
+.dark-blue-bg {
+  background-color: #00008B;	/* #00008B -- DarkBlue */
+}
+
+/* **************************** *
+ * MediumBlue -- standard color *
+ * **************************** */
+/* Foreground color*/
+.medium-blue-fg {
+  color: #0000CD;				/* #0000CD -- MediumBlue */
+}
+
+/* Background color */
+.medium-blue-bg {
+  background-color: #0000CD;	/* #0000CD -- MediumBlue */
+}
+
+/* ********************** *
+ * Blue -- standard color *
+ * ********************** */
+/* Foreground color*/
+.blue-fg {
+  color: #0000FF;				/* #0000FF -- Blue */
+}
+
+/* Background color */
+.blue-bg {
+  background-color: #0000FF;	/* #0000FF -- Blue */
 }
