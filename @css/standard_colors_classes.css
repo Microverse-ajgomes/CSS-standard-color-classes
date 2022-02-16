@@ -50,12 +50,12 @@
  * ********************** */
 /* Foreground color */
 .navy-fg {
-  color: #000080;				/* #000080 -- Navy */
+  color: #000080;               /* #000080 -- Navy */
 }
 
 /* Background color */
 .navy-bg {
-  background-color: #000080;	/* #000080 -- Navy */
+  background-color: #000080;    /* #000080 -- Navy */
 }
 
 /* ************************** *
@@ -63,12 +63,12 @@
  * ************************** */
 /* Foreground color */
 .dark-blue-fg {
-  color: #00008B;				/* #00008B -- DarkBlue */
+  color: #00008B;               /* #00008B -- DarkBlue */
 }
 
 /* Background color */
 .dark-blue-bg {
-  background-color: #00008B;	/* #00008B -- DarkBlue */
+  background-color: #00008B;    /* #00008B -- DarkBlue */
 }
 
 /* **************************** *
@@ -76,12 +76,12 @@
  * **************************** */
 /* Foreground color*/
 .medium-blue-fg {
-  color: #0000CD;				/* #0000CD -- MediumBlue */
+  color: #0000CD;               /* #0000CD -- MediumBlue */
 }
 
 /* Background color */
 .medium-blue-bg {
-  background-color: #0000CD;	/* #0000CD -- MediumBlue */
+  background-color: #0000CD;    /* #0000CD -- MediumBlue */
 }
 
 /* ********************** *
@@ -89,10 +89,23 @@
  * ********************** */
 /* Foreground color*/
 .blue-fg {
-  color: #0000FF;				/* #0000FF -- Blue */
+  color: #0000FF;               /* #0000FF -- Blue */
 }
 
 /* Background color */
 .blue-bg {
-  background-color: #0000FF;	/* #0000FF -- Blue */
+  background-color: #0000FF;    /* #0000FF -- Blue */
+}
+
+/* *************************** *
+ * DarkGreen -- standard color *
+ * *************************** */
+/* Foreground color*/
+.dark-green-fg {
+  color: #006400;               /* #006400 -- DarkGreen */
+}
+
+/* Background color */
+.dark-green-bg {
+  background-color: #006400;    /* #00g400 -- DarkGreen */
 }
